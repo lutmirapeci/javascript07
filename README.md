@@ -1,7 +1,3 @@
-# BrainsterChallenges_LutmiraPeciFE3
-
-## Challenge-14
-
 ### Overview: Objects in JavaScript
 
 ```
